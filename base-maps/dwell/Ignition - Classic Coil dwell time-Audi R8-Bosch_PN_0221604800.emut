@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <tables>
+    <symbol name="dwellTime" storage="ubyte" width="12" height="1" data="C8 82 59 48 3A 30 28 24 20 1E 1A 18 "/>
+  </tables>
+</project>
